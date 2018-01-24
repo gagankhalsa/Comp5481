@@ -12,6 +12,6 @@ public class NewTesGit {
 	}
 public void abd()
 {
-    System.out.println("Gagan Parhuke got tired");
+    System.out.println("Gagan Parhuke want APP grade F");
 }
 }
