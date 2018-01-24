@@ -5,9 +5,13 @@ public class NewTesGit {
 		// TODO Auto-generated method stub
      System.out.println("Hello Test Egit Gagan Parhuke Branch updated");
 	}
+
 	public void add()
 	{
 		System.out.println("Merge branches");
 	}
-
+public void abd()
+{
+    System.out.println("Test Egit Gagan Parhuke Branch updated");
+}
 }
