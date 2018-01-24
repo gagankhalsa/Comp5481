@@ -12,6 +12,6 @@ public class NewTesGit {
 	}
 public void abd()
 {
-    System.out.println("Test Egit Gagan Parhuke Branch updated");
+    System.out.println("Gagan Parhuke got tired");
 }
 }
